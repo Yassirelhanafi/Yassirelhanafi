@@ -3,16 +3,18 @@
 
 
 
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yassirelhanafi&theme=darkhub" alt="yassirelhanafi" />
-</p>
+
 
 - 🌱 I’m currently learning **DevOps tools and cloud integration.**
 
 - 👯 I’m looking to collaborate on **Cloud integration Project**
 
 - 📫 How to reach me **yassirelhanafi50@gmail.com**
+
+<h3 align="left">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yassirelhanafi&theme=darkhub" alt="yassirelhanafi" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
